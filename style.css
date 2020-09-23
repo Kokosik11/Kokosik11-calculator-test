@@ -48,6 +48,8 @@ body {
     line-height:75px;
     cursor: pointer;
     transition: .5s;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    -webkit-tap-highlight-color: transparent;
 }
 
 .line {
